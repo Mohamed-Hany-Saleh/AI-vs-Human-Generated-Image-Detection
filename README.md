@@ -1,4 +1,5 @@
-## 🖼️ AI vs Human-Generated Image Detection  
+## ![dataset-cover](https://github.com/user-attachments/assets/630be7b6-1f0e-41fe-aaea-9f1417988932)
+ AI vs Human-Generated Image Detection  
 A deep learning model to classify AI-generated images vs. real images. This project was part of a **Kaggle competition**, developed in collaboration with [Youssif Emad](https://linkedin.com/in/youssifemad).  
 
 ### 📌 **Project Overview**  
